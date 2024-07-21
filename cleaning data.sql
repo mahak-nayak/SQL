@@ -1,4 +1,4 @@
--- insert into retail.customers value  (1006, 'Anil Khandelwal', '456-456-7897', 'Delhi');
+
 
 UPDATE retail.customers 
 SET 
